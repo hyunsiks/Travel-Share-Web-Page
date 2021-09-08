@@ -42,7 +42,7 @@ select * from (SELECT * FROM like_view order by LIKE_CNT DESC) INNER JOIN user_i
 
 
 ![image](https://user-images.githubusercontent.com/82793713/132148885-8300ab28-ac5d-465b-a1c1-9a9d53222fe8.png)
-  *  아이디 찾기 및 비밀번호 찾기를 할 때에도 가입된 핸드폰번호에 보낸 인증번호를 입력하여 찾기 기능을 구현하였음
+  *  아이디 및 비밀번호 찾기를 할 때에도 가입된 핸드폰번호에 보낸 인증번호를 입력하여 찾기 기능을 구현하였음
 ![image](https://user-images.githubusercontent.com/82793713/132148953-8fdc9383-926c-4916-95af-41dc313b7451.png)
   *  회원 정보를 수정할 수 있으며 전화번호는 수정하려면 인증을 받아야 수정할 수 있음
 ![image](https://user-images.githubusercontent.com/82793713/132149027-213bf3fd-4c61-419c-8011-3c8a12d10cce.png)
